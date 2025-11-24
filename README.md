@@ -21,4 +21,4 @@
 
 ### 📫 ¿Hablamos?
 <a href="https://wa.me/573024406870">WhatsApp</a>  
-<a href="[https://www.linkedin.com/in/TU-LINK/](https://www.linkedin.com/in/diego-alejandro-silva-quintero-952a47307/](https://www.linkedin.com/in/diego-alejandro-silva-quintero-952a47307/)">LinkedIn</a>
+<a href="https://www.linkedin.com/in/TU-LINK/](https://www.linkedin.com/in/diego-alejandro-silva-quintero-952a47307/](https://www.linkedin.com/in/diego-alejandro-silva-quintero-952a47307/">LinkedIn</a>
