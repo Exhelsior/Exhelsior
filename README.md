@@ -19,13 +19,6 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 ¿Hablamos?
 <a href="https://wa.me/573024406870">WhatsApp</a>  
 <a href="https://www.linkedin.com/in/TU-LINK/">LinkedIn</a>
